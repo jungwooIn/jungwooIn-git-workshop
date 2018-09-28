@@ -53,7 +53,7 @@ Devstack configuration file
 
 	vi local.conf
 	
-	or
+or
 
 .. code-block:: none	
 
