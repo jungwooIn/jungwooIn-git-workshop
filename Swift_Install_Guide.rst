@@ -2,13 +2,24 @@
 Devtack-Swift-install 
 =====================
 Devstack 기반의 Swift install Guide 문서이다.
-Devstack Install문서를 참고하여 작성함 `Devstack <https://docs.openstack.org/devstack/latest/>`_
+`Devstack <https://docs.openstack.org/devstack/latest/>`_ Install문서를 참고하여 작성함 
 
 Prerequisites
 ------------------------------
 * DevStack setup requires to have 1 VM/ BM machine with internet connectivity.
 * Devstack은 현재 Ubuntu16.04 및 CentOS 7을 지원하며, Devstack은 공식적으로 Ubuntu16.04를 권장함에 따라 Ubuntu16.04 설치함.
 * Install Git
+
+.. code-block:: python
+
+    import pcl
+    import numpy as np
+    p = pcl.PointCloud(np.array([[1, 2, 3], [3, 4, 5]], dtype=np.float32))
+    seg = p.make_segmenter()
+    seg.set_model_type(pcl.SACMODEL_PLANE)
+    seg.set_method_type(pcl.SAC_RANSAC)
+    indices, model = seg.segment()
+
 .. code-block:: none
 	apt-get install git
 
