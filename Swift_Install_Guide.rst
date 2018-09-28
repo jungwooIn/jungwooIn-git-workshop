@@ -2,6 +2,7 @@
 Devtack-Swift-install 
 =====================
 Devstack 기반의 Swift install Guide 문서이다.
+
 `Devstack <https://docs.openstack.org/devstack/latest/>`_ Install문서를 참고하여 작성함 
 
 Prerequisites
@@ -52,8 +53,8 @@ Devstack configuration file
 
 	vi local.conf
 	
-	or 
-	
+	or
+
 .. code-block:: none	
 
 	cp /smaple/local.conf ./
@@ -65,10 +66,15 @@ Devstack configuration file setup
 .. code-block:: none
 
 [[local|localrc]]
+
 ADMIN_PASSWORD=secret
+
 DATABASE_PASSWORD=$ADMIN_PASSWORD
+
 RABBIT_PASSWORD=$ADMIN_PASSWORD
+
 SERVICE_PASSWORD=$ADMIN_PASSWORD
+
 
 
 
