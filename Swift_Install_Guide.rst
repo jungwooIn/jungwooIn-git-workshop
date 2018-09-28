@@ -21,6 +21,7 @@ Prerequisites
     indices, model = seg.segment()
 
 .. code-block:: none
+
 	apt-get install git
 
 * Ubuntu 기본 패키지 설치를 위하여 소스정보를 업데이트 필요함
