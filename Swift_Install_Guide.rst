@@ -10,7 +10,7 @@ Prerequisites
 * DevStack setup requires to have 1 VM/ BM machine with internet connectivity.
 * Devstack은 현재 Ubuntu16.04 및 CentOS 7을 지원하며, Devstack은 공식적으로 Ubuntu16.04를 권장함에 따라 Ubuntu16.04 설치함.
 * Install Git
-	apt-get install git::
+	..apt-get install git::
 
 * Ubuntu 기본 패키지 설치를 위하여 소스정보를 업데이트 필요함
 .. parsed-literal-2::
