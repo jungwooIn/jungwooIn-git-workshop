@@ -113,6 +113,7 @@ Devstack SAIO start complete Report
 	-------------------------
 	Unaccounted time     599
 	=========================
+	=========================
 	Total runtime        2184
 
 This is your host IP address: 10.1.0.6
@@ -123,4 +124,5 @@ The default users are:
 * admin and demo
 * The password: secret
 
+<a href="https://github.com/strawlab/python-pcl">
 <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github.com/jungwooIn/jungwooIn-git-workshop/blob/master/image/Devstack-SAIO-loginjpg.jpg" alt="Openstack Dashboard Login"></a>
