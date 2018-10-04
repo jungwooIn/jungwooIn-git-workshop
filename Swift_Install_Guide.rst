@@ -117,6 +117,7 @@ Devstack SAIO start complete Report
 	Total runtime        2184
 
 Horizon is now available at http://localhost/dashboard
+
 Keystone is serving at http://localhost/identity/
 
 The default users are
@@ -124,7 +125,7 @@ The default users are
 * admin and demo
 * The password: secret
 
-.. image:: https://github.com/jungwooIn/jungwooIn-git-workshop/blob/master/image/Devstack-SAIO-loginjpg.jpg
+.. image:: /image/Devstack-SAIO-loginjpg.jpg
   :width: 100
   :alt: Alternative text
   
