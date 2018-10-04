@@ -120,11 +120,13 @@ This is your host IP address: 10.1.0.6
 This is your host IPv6 address 
 Horizon is now available at http://localhost/dashboard
 Keystone is serving at http://localhost/identity/
+
 The default users are
+-------------------------------------
 * admin and demo
 * The password: secret
 
 .. image:: https://github.com/jungwooIn/jungwooIn-git-workshop/blob/master/image/Devstack-SAIO-loginjpg.jpg
-  :width: 400
+  :width: 200
   :alt: Alternative text
   
