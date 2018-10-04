@@ -116,8 +116,11 @@ Devstack SAIO start complete Report
 	Total runtime        2184
 
 This is your host IP address: 10.1.0.6
-This is your host IPv6 address: ::1
-Horizon is now available at http://10.1.0.6/dashboard
-Keystone is serving at http://10.1.0.6/identity/
-The default users are: admin and demo
-The password: secret
+This is your host IPv6 address 
+Horizon is now available at http://localhost/dashboard
+Keystone is serving at http://localhost/identity/
+The default users are:
+* admin and demo
+* The password: secret
+
+<img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github.com/jungwooIn/jungwooIn-git-workshop/blob/master/image/Devstack-SAIO-loginjpg.jpg" alt="Openstack Dashboard Login"></a>
