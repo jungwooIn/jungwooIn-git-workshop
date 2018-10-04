@@ -116,8 +116,6 @@ Devstack SAIO start complete Report
 	=========================
 	Total runtime        2184
 
-This is your host IP address: 10.1.0.6
-This is your host IPv6 address 
 Horizon is now available at http://localhost/dashboard
 Keystone is serving at http://localhost/identity/
 
@@ -127,6 +125,6 @@ The default users are
 * The password: secret
 
 .. image:: https://github.com/jungwooIn/jungwooIn-git-workshop/blob/master/image/Devstack-SAIO-loginjpg.jpg
-  :width: 200
+  :width: 100
   :alt: Alternative text
   
