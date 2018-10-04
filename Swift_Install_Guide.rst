@@ -95,26 +95,25 @@ Devstack SAIO installation start
 	
 Devstack SAIO start complete Report 
 ------------------------------
+.. code-block:: none
 
-=========================
-DevStack Component Timing
- (times are in seconds)
-=========================
-run_process           37
-test_with_retry        3
-apt-get-update        10
-pip_install          500
-osc                  243
-wait_for_service      32
-git_timed            328
-dbsync                65
-apt-get              367
--------------------------
-Unaccounted time     599
-=========================
-Total runtime        2184
-
-
+	=========================
+	DevStack Component Timing
+	(times are in seconds)
+	=========================
+	run_process           37
+	test_with_retry        3
+	apt-get-update        10
+	pip_install          500
+	osc                  243
+	wait_for_service      32
+	git_timed            328
+	dbsync                65
+	apt-get              367
+	-------------------------
+	Unaccounted time     599
+	=========================
+	Total runtime        2184
 
 This is your host IP address: 10.1.0.6
 This is your host IPv6 address: ::1
@@ -122,5 +121,3 @@ Horizon is now available at http://10.1.0.6/dashboard
 Keystone is serving at http://10.1.0.6/identity/
 The default users are: admin and demo
 The password: secret
-
-img src="https://github.com/jungwooIn/jungwooIn-git-workshop/blob/master/image/Devstack-SAIO-loginjpg.jpg
