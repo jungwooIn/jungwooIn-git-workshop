@@ -123,5 +123,4 @@ Keystone is serving at http://10.1.0.6/identity/
 The default users are: admin and demo
 The password: secret
 
-<div align="center"><img src="docs/image/pcl_logo_958x309.png" width="309"/></div>
-
+img src="https://github.com/jungwooIn/jungwooIn-git-workshop/blob/master/image/Devstack-SAIO-loginjpg.jpg
