@@ -125,4 +125,5 @@ The default users are:
 * The password: secret
 
 .. raw:: html
+
 <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github.com/jungwooIn/jungwooIn-git-workshop/blob/master/image/Devstack-SAIO-loginjpg.jpg" alt="Openstack Dashboard Login"></a>
