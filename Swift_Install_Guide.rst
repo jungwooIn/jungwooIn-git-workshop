@@ -120,10 +120,11 @@ This is your host IP address: 10.1.0.6
 This is your host IPv6 address 
 Horizon is now available at http://localhost/dashboard
 Keystone is serving at http://localhost/identity/
-The default users are:
+The default users are
 * admin and demo
 * The password: secret
 
-.. raw:: html
-
-<img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github.com/jungwooIn/jungwooIn-git-workshop/blob/master/image/Devstack-SAIO-loginjpg.jpg" alt="Openstack Dashboard Login"></a>
+.. image:: https://github.com/jungwooIn/jungwooIn-git-workshop/blob/master/image/Devstack-SAIO-loginjpg.jpg
+  :width: 400
+  :alt: Alternative text
+  
