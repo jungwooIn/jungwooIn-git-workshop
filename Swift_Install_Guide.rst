@@ -167,11 +167,20 @@ SwiftObjct - AppDevelopmentOpenStackSwiftStorage.pdf 파일 업로드 완료
   :width: 100
   :alt: Alternative text
   
-파일 다운로드
+PC Web Browser 파일 다운로드 및 확인
 -------------------------------------
 
 .. image:: /image/Down.jpg
   :width: 100
-  :alt: Alternative text  
+  :alt: Alternative text
+  
+Devstack VM Instance에서 파일 다운로드 및 확인
+-------------------------------------
+
+.. image:: /image/Devstack_vm.jpg
+  :width: 100
+  :alt: Alternative text
+  
+
 
 
