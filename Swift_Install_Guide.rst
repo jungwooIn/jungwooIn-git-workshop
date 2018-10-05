@@ -146,7 +146,7 @@ Login 성공 후 화면
   :width: 100
   :alt: Alternative text
  
-오브젝트 스토리지 명 "SwiftObjct"에 폴더 또는 파일 업로드   
+오브젝트 스토리지 명 "SwiftObjct"에 폴더 생성 또는 파일 업로드   
 -------------------------------------
 
 * 화면 중간에 업로드 아이콘을 이용 파일 업로드
@@ -159,5 +159,19 @@ Login 성공 후 화면
 .. image:: /image/Fileupload.jpg
   :width: 100
   :alt: Alternative text  
+
+SwiftObjct - AppDevelopmentOpenStackSwiftStorage.pdf 파일 업로드 완료
+-------------------------------------
+
+.. image:: /image/Sucess.jpg
+  :width: 100
+  :alt: Alternative text
   
+파일 다운로드
+-------------------------------------
+
+.. image:: /image/Down.jpg
+  :width: 100
+  :alt: Alternative text  
+
 
