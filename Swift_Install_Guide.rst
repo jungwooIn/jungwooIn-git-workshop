@@ -142,7 +142,7 @@ Login 성공 후 화면
 * 컨테이너 생성 후 이름 SwiftObject 
 * Public Access : CheckBox "Select" 
 s
-.. image:: /image/container.jpg
+.. image:: /image/Container.jpg
   :width: 100
   :alt: Alternative text
  
