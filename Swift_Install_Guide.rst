@@ -122,10 +122,42 @@ Keystone is serving at http://localhost/identity/
 
 The default users are
 -------------------------------------
-* admin and demo
+* User : Admin and demo
 * The password: secret
 
 .. image:: /image/Devstack-SAIO-loginjpg.jpg
   :width: 100
   :alt: Alternative text
   
+Login 성공 후 화면
+-------------------------------------
+
+.. image:: /image/Dashboad.jpg
+  :width: 100
+  :alt: Alternative text
+  
+오브젝트 스토리지 컨테이너 생성 완료화면 
+-------------------------------------
+* + 컨테이너 Btn을 Click하여 신규 컨테이너 생성
+* 컨테이너 생성 후 이름 SwiftObject 
+* Public Access : CheckBox "Select" 
+s
+.. image:: /image/container.jpg
+  :width: 100
+  :alt: Alternative text
+ 
+오브젝트 스토리지 명 "SwiftObjct"에 폴더 또는 파일 업로드   
+-------------------------------------
+
+* 화면 중간에 업로드 아이콘을 이용 파일 업로드
+* 폴더 추가 아이콘을을 이용 폴더 추가
+
+.. image:: /image/Upload.jpg
+  :width: 100
+  :alt: Alternative text
+  
+.. image:: /image/Fileupload.jpg
+  :width: 100
+  :alt: Alternative text  
+  
+
