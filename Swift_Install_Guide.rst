@@ -154,7 +154,7 @@ Login 성공 후 화면
 
 .. image:: /image/Upload.jpg
   :width: 100
-  :alt: Alternative text
+  :salt: Alternative text
   
 .. image:: /image/Fileupload.jpg
   :width: 100
